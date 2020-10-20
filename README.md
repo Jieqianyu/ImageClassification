@@ -1,2 +1,2 @@
 # ImageClassification
-Template for image classification with pytorch
+Template for image classification with pytorch.
